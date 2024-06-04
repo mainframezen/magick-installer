@@ -99,3 +99,4 @@ make clean
 make
 sudo make install
 cd ..
+clear
